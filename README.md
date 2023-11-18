@@ -24,6 +24,6 @@ This is my simple static website created using Python and Streamlit.
 
 # Deployment
 
-- The website is currently hosted on Streamlit Sharing. Visit iqlip7.streamlit.app to access it.
+- The website is currently hosted on Streamlit Sharing. Visit https://iqlip7.streamlit.app to access it.
 
 
