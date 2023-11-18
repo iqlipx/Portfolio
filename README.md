@@ -12,7 +12,7 @@ This is my simple static website created using Python and Streamlit.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/iqlipx/Portfolio.git
 
 ## Install dependencies:
 
